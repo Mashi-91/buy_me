@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065232852251",
+    "project_id": "buyme-c8805",
+    "storage_bucket": "buyme-c8805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065232852251:android:417ab8160faa10b2179fbe",
+        "android_client_info": {
+          "package_name": "com.example.buy_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4R9jEh4QRbwWl9PQbFT9ZTKgmlnW-uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
