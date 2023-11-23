@@ -74,7 +74,7 @@ class HomeController extends GetxController with StateMixin {
   Future<void> signOut() async {
     Get.back(closeOverlays: true);
     await AuthService.firebase().logOut();
-    Get.back();
+    Get.offNamedUntil(Routes.signInScreen, (route) => false);
   }
 
   void changeToggle(val) {
