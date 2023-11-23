@@ -37,4 +37,6 @@ Welcome to BuyMe, a powerful and feature-rich Flutter application designed to en
 
 ## Video Demo
 
-[![Watch the video]](screenshots/introVideo.mp4)
+[![Watch the video]]https://github.com/Mashi-91/buy_me/assets/56748946/7966406b-1c32-49eb-844f-aa8c178e56fc
+
+
